@@ -1,8 +1,8 @@
 
-#H1 **Project 1. The memory game.**
+ **Project 1. The memory game.**
 
 
-#h3 User Story: 
+**User Story: **
 This game application allows our user to play a version of the classic game of memory in order to improve their cognitive abilities.
 
 **Requirements**
@@ -17,7 +17,7 @@ This game application allows our user to play a version of the classic game of m
 - Player wins if they match all cards before clock runs out if single player. 
 - If multiplayer, player with the most matches by end of round wins. 
 - If tie in multiplayer, player with the most matches 
-- 
+
 
 **Extras**
 -Include multiplayer ( each person has a turn during the same game or one full turn then the next and see who does better-to be decided). 
@@ -27,6 +27,6 @@ This game application allows our user to play a version of the classic game of m
 
 
 
-User stories: 
 
-Wireframes: 
+
+Wireframes: To be uploaded seperately. 
