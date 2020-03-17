@@ -6,6 +6,7 @@
 This game application allows our user to play a version of the classic game of memory in order to improve their cognitive abilities.
 
 **Requirements**
+<P>
 -The cards are to be shuffled upon the start or restart of every game.
 -The game lasts 5 minutes for levels easy/medium, 7 for hard. 
 -The amount of cards shall be 36 total for all levels.
@@ -20,6 +21,7 @@ This game application allows our user to play a version of the classic game of m
 
 
 **Extras**
+<p>
 -Include multiplayer ( each person has a turn during the same game or one full turn then the next and see who does better-to be decided). 
 -include a computer opponent
 -create 2-3 diferent levels (easy, medium, hard) with each having different stage and reuse code. 
