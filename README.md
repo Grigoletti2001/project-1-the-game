@@ -9,7 +9,7 @@ This game application allows our user to play a version of the classic game of m
 -The cards are to be shuffled upon the start or restart of every game.
 -The game lasts 5 minutes for levels easy/medium, 7 for hard. 
 -The amount of cards shall be 36 total for all levels.
--Easy cards will match a famous painting to the same famous painting. Medium will have French word to English word. Hard will have famous Book Cover or scene to Author.
+-Regular cards will match a famous painting to the same famous painting. (Extra:Medium will have French word to English word. Hard will have famous Book Cover or scene to Author.)
 - There must be a timer. it starts as soon the screen loads.
 - Every time the player scores a match they will earn 15 seconds on by HITTING A BUTTON THATS AVAILABLE FOR  a a randomly determined amound of time (between 5-30).
 - include a restart button. 
