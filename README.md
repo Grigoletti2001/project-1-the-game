@@ -8,7 +8,9 @@ This game application allows our user to play a version of the classic game of m
 **Requirements**
 <P>
 -The cards are to be shuffled upon the start or restart of every game.
+  <br>
 -The game lasts 5 minutes for levels easy/medium, 7 for hard. 
+  <br>
 -The amount of cards shall be 36 total for all levels.
 -Regular cards will match a famous painting to the same famous painting. (Extra:Medium will have French word to English word. Hard will have famous Book Cover or scene to Author.)
 - There must be a timer. it starts as soon the screen loads.
