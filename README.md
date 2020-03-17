@@ -17,7 +17,7 @@ This game application allows our user to play a version of the classic game of m
     <br>
 - There must be a timer. it starts as soon the screen loads.
     <br>
-- Every time the player scores a match they will earn 15 seconds on by HITTING A BUTTON THATS AVAILABLE FOR  a a randomly determined amound of time (between 5-30).
+- Every time the player scores a match they will earn 15 seconds via a button allocating 15 seconds that exists for a randomly determined period of time (between 5-30).
     <br>
 - include a restart button. 
     <br>
